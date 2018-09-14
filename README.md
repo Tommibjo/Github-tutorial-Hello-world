@@ -1,1 +1,2 @@
-# Just the tutorial "Hello-world"
+# 1st commint:
+Hello world! I am talking computer!
