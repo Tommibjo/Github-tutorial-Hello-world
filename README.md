@@ -1,2 +1,2 @@
-# 1st commit:
-Hello world! I am talking computer!
+# Hello world!
+Here I was getting familiar with github (and without understanding it, to the: <Git</> (Distributed version control).
