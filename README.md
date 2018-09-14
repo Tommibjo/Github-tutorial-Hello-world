@@ -1,8 +1,1 @@
-# Hello-world
-
-Hello,
-
-This is test. Let's see how it goes.
-
-Best regards,
-Tommi
+# Just the tutorial "Hello-world"
