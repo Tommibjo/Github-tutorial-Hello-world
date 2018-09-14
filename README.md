@@ -1,2 +1,2 @@
-# 1st commint:
+# 1st commit:
 Hello world! I am talking computer!
